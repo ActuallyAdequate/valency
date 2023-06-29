@@ -1,4 +1,4 @@
-![Valency Banner](https://github.com/actuallyadequate/valenvy/raw/main/Assets/Art/ValencyBanner.png)
+![Valency Banner](https://github.com/actuallyadequate/valency/raw/main/Assets/Art/ValencyBanner.png)
 
 # Valency
 A Chemistry Memorisation Game Built in Unity.
