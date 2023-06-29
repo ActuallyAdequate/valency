@@ -1,3 +1,5 @@
+![Valency Banner](Assets/Art/ValencyBanner.png)
+
 # Valency
 A Chemistry Memorisation Game Built in Unity.
 
